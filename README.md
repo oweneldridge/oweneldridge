@@ -170,7 +170,8 @@ const owen = {
 
 ## Education
 
-**Johnson & Wales University** - Bachelor of Science | **Florida Atlantic University** - Computer Science
+- **Johnson & Wales University** - Bachelor of Science
+- **Florida Atlantic University** - Computer Science
 
 ---
 

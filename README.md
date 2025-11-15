@@ -105,6 +105,10 @@ Spearmint helps developers write better tests with a focus on accessibility, whi
 
 ### Side Projects
 
+**[Vault Pets](https://github.com/oweneldridge/obsidian-pets)** - Obsidian plugin that brings pixel-art pets to your notes. Port of vscode-pets with 20+ customizable pets, interactive features (ball throwing, pet companions), themes, and visual effects. Features TypeScript implementation with canvas animations, custom state machines, and theme-aware backgrounds.
+
+**Stack:** TypeScript, Obsidian API, Canvas, State Management
+
 **[audiobook-creator-tts](https://github.com/oweneldridge/audiobook-creator-tts)** - CLI tool for converting PDFs and EPUBs into audiobooks. Uses 583 voices across 76 languages with text chunking and persistent browser sessions for efficiency. Built it to make content more accessible and to explore text-to-speech technology.
 
 **Stack:** Python, Playwright, CLI, Audio Processing

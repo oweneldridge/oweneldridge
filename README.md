@@ -4,7 +4,7 @@
 
 I'm a full-stack engineer with 5+ years of experience building healthcare, fitness, and payment systems. I've worked across the stack—React frontends, Go/Python backends, AWS infrastructure and led technical initiatives at companies ranging from fitness tech to healthcare platforms.
 
-Currently working in healthcare tech and exploring AI/ML integration, developer tooling, and ways to make software more accessible.
+These days I'm building healthcare software by day and going deep on AI/ML engineering—LLM systems, RAG, and agents—the rest of the time. I'm drawn to local-first, self-hostable tools and to making software more accessible.
 
 ---
 
@@ -105,6 +105,10 @@ Spearmint helps developers write better tests with a focus on accessibility, whi
 
 ### Side Projects
 
+**[Basalt](https://github.com/oweneldridge/basalt)** - Open-source, local-first Markdown knowledge base; an anti-enshittification alternative to Obsidian. Your notes stay as plain files on your own disk—no account, no lock-in. Built with Tauri 2, CodeMirror 6, and React.
+
+**Stack:** Rust (Tauri 2), TypeScript, React, CodeMirror 6
+
 **[Vault Pets](https://github.com/oweneldridge/obsidian-pets)** - Obsidian plugin that brings pixel-art pets to your notes. Port of vscode-pets with 20+ customizable pets, interactive features (ball throwing, pet companions), themes, and visual effects. Features TypeScript implementation with canvas animations, custom state machines, and theme-aware backgrounds.
 
 **Stack:** TypeScript, Obsidian API, Canvas, State Management
@@ -118,7 +122,7 @@ Spearmint helps developers write better tests with a focus on accessibility, whi
 ## What I'm up to
 
 - Working on healthcare technology with React, TypeScript, Go, and GraphQL
-- Learning more about advanced Go patterns, AWS architecture, and AI/ML integration
+- Going deep on AI/ML engineering—LLMs, RAG, agents—and building developer tools I self-host
 - Interested in healthcare tech, payment systems, accessibility, testing infrastructure
 - Exploring AI-powered dev tools, Obsidian plugins, CLI utilities, audio processing
 - Open to collaborating on open source projects, especially around React, TypeScript, Go, testing, and accessibility

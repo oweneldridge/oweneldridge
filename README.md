@@ -109,6 +109,10 @@ Spearmint helps developers write better tests with a focus on accessibility, whi
 
 **Stack:** Rust (Tauri 2), TypeScript, React, CodeMirror 6
 
+**[oweneldridge.io](https://oweneldridge.io)** - My personal site: selected projects, a bio, and a resume. Next.js (App Router) exported to plain static files—no CMS, no database, content lives as MDX in git. Privacy-respecting by design: the fonts are self-hosted (OFL), so a build never phones anyone. Primary hosting is Codeberg Pages, mirrored here on GitHub.
+
+**Stack:** Next.js, TypeScript, MDX, CSS Modules
+
 **[Vault Pets](https://github.com/oweneldridge/obsidian-pets)** - Obsidian plugin that brings pixel-art pets to your notes. Port of vscode-pets with 20+ customizable pets, interactive features (ball throwing, pet companions), themes, and visual effects. Features TypeScript implementation with canvas animations, custom state machines, and theme-aware backgrounds.
 
 **Stack:** TypeScript, Obsidian API, Canvas, State Management

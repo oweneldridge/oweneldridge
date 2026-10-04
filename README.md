@@ -34,4 +34,4 @@ Case studies and a resume: **[oweneldridge.io](https://oweneldridge.io)**
 - [Spearmint](https://github.com/open-source-labs/spearmint): core contributor
   to an accessibility-focused GUI for generating JavaScript tests.
 
-Reach me at owen.eldridge@pm.me.
+Reach me at hello@oweneldridge.io.
